@@ -1,1 +1,1 @@
-# GoldenGate
+# Golden
