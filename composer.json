@@ -1,0 +1,10 @@
+{
+"name": "aisoft/golden",
+"description": "Zero footprint PHP framework with MVC support",
+"license":"CC BY 4.0",
+"autoload": {
+"psr-4": {
+"Golden\\": "AiSOFT/Golden"
+}
+}
+}
